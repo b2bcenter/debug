@@ -603,9 +603,6 @@ class ErrorHandler
         if (!$handler) {
             return;
         }
-        if ($handler !== $h) {
-            $handler[0]->setExceptionHandler($h);
-        }
         $handler = $handler[0];
         $handlers = array();
 
