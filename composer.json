@@ -1,5 +1,5 @@
 {
-    "name": "b2bcenter/symfony-debug",
+    "name": "symfony/symfony-debug",
     "type": "library",
     "description": "Symfony Debug Component",
     "keywords": [],
