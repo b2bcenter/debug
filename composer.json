@@ -1,5 +1,5 @@
 {
-    "name": "symfony/debug",
+    "name": "b2bcenter/symfony-debug",
     "type": "library",
     "description": "Symfony Debug Component",
     "keywords": [],
@@ -34,7 +34,7 @@
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "dev-master": "4.1-dev"
+            "dev-master": "4.0.1"
         }
     }
 }
